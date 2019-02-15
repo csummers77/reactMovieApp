@@ -1,7 +1,3 @@
-body{
-  /* background-color: black; */
-  /* color: magent; */
-}
 .App {
   text-align: center;
 }
@@ -20,13 +16,11 @@ body{
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: red;
+  color: limegreen;
 }
-img{
-  text-align: center;
-}
+
 .App-link {
-  color: red;
+  color: limegreen;
 }
 
 @keyframes App-logo-spin {
